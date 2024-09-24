@@ -1,6 +1,7 @@
-/* ImageStyles.css */
-.Card{
-    width: 200px;
-    height: auto;
+
+.card{
+  border: 5px solid rgb(115, 47, 47);
+  width: 200px;
+  height: auto;
   }
   
