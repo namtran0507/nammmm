@@ -1,10 +1,13 @@
-import Card from "./Card";
-
+// File: src/App.jsx
+import React from 'react';
+import Login from './components/Login';
 
 function App() {
-  return (
-    <Card></Card>
-  );
+    return (
+        <div className="App">
+            <Login />
+        </div>
+    );
 }
 
-export default App
+export default App;
